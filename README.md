@@ -1,2 +1,2 @@
 # PA
-Materiale de curs + tutoriat pentru Programarea Algoritmilor
+Materiale de curs + seminar + tutoriat, pentru Programarea Algoritmilor
